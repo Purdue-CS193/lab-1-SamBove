@@ -1,4 +1,4 @@
-# Sam Bove
+# Sam Bove's Website
 
 ## Welcome to GitHub Pages
 
