@@ -1,4 +1,4 @@
-# Samuel Bove's First CS Lab
+# Samuel Bove's First CS193 Lab
 ### Cool things about CS 193
 - It counts towards my GPA
 - It's only every other week
